@@ -157,7 +157,7 @@ No proprietary ECO3 data, schemas, or sensitive business logic are exposed.
 
 ---
 
-## Navigation / Links (Placeholders)
+## Navigation
 
 - **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/){:target="_blank"}
   *It contain links to My portfolio and all major pages and projects*
