@@ -42,7 +42,7 @@ Each phase builds on the previous one and is documented through dedicated reposi
 ## Active & Planned Repositories
 
 ### Legacy Discovery & Reporting Foundation
-**Repository:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/){:target="_blank"}
+**Repository:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/)
 
 Focus:
 - Mapping undocumented environments
@@ -55,7 +55,7 @@ Status: ✅ Completed (baseline established)
 ---
 
 ### Operational BI Ownership & Business Analytics
-**Repository:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/){:target="_blank"}
+**Repository:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/)
 
 Focus:
 - Ownership of Power BI reports
@@ -66,7 +66,7 @@ Status: 🔄 Active & maintained
 
 ---
 ### Pricing, Software & Service Analytics
-**Repository:** - [`Pricing-Software-Service--Sales-analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/){:target="_blank"}
+**Repository:** - [`Pricing-Software-Service--Sales-analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/)
 
 **Focus:**
 - Unified Sales Analytics application
@@ -81,7 +81,7 @@ Status: 🔄 Active & maintained
 ---
 
 ### Data Engineering, Automation & BDM 2.0 Architecture
-**Repository:** [`ECO3-data-engineering-BDM-2-future-architecture`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/){:target="_blank"}
+**Repository:** [`ECO3-data-engineering-BDM-2-future-architecture`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/)
 
 Focus:
 - Python-based automation
@@ -159,10 +159,10 @@ No proprietary ECO3 data, schemas, or sensitive business logic are exposed.
 
 ## Navigation
 
-- **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/){:target="_blank"}
+- **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/)
   *It contain links to My portfolio and all major pages and projects*
 
-- **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/){:target="_blank"}
+- **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/)
   *Links to all Nielsen Repo*
 
 - **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/)
