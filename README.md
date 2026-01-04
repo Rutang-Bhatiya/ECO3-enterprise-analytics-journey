@@ -1,1 +1,145 @@
-# ECO3-enterprise-analytics-journey
+# Enterprise Analytics Journey – ECO3
+
+## Purpose of This Repository
+
+This repository serves as a **living overview** of my analytics, BI, and data platform journey at ECO3.
+
+I am currently working in this role, and this repository will evolve over time as:
+- New projects are delivered
+- New repositories are created
+- The data platform matures
+
+Rather than a single project, this repository acts as:
+- A navigation hub
+- A career timeline
+- A high-level architectural and ownership overview
+
+---
+
+## Role Context
+
+**Role:** Business Data Analyst  
+**Company:** ECO3  
+**Period:** June 2025 – Present (Ongoing)
+
+I joined ECO3 in an environment with **no formal documentation, onboarding, or ownership clarity** around the existing data landscape.
+
+Before improvements could be made, the entire ecosystem had to be understood, stabilized, and re-imagined.
+
+---
+
+## High-Level Journey Overview
+
+My work at ECO3 can be grouped into four major phases:
+
+1. Legacy environment discovery & risk assessment  
+2. Operational BI ownership & trust restoration  
+3. Data engineering & automation  
+4. Future-state platform design (BDM 2.0)
+
+Each phase builds on the previous one and is documented through dedicated repositories.
+
+---
+
+## Active & Planned Repositories
+
+### 1️⃣ Legacy Discovery & Reporting Foundation
+**Repository:** `eco3-reporting-legacy-discovery`
+
+Focus:
+- Mapping undocumented environments
+- Understanding report dependencies
+- Identifying break risks
+- Establishing ownership
+
+Status: ✅ Completed (baseline established)
+
+---
+
+### 2️⃣ Operational BI Ownership & Business Analytics
+**Repository:** `eco3-operational-bi-ownership`
+
+Focus:
+- Ownership of Power BI reports
+- Data trust restoration
+- Stakeholder enablement
+- Pricing, software & service analytics
+
+Status: 🔄 Active & maintained
+
+---
+
+### 3️⃣ Data Engineering, Automation & BDM 2.0 Architecture
+**Repository:** `eco3-data-engineering-bdm-2-future-architecture`
+
+Focus:
+- Python-based automation
+- Reverse-engineering legacy logic
+- Microsoft Fabric adoption
+- Centralized database design
+- AI-ready platform foundations
+
+Status: 🔄 Active & evolving
+
+---
+
+### 4️⃣ Future Repositories (Planned)
+
+As the ecosystem evolves, new repositories may be added, including:
+- Advanced analytics applications
+- AI & machine learning enablement
+- Enterprise KPI governance
+- Self-service analytics frameworks
+
+This repository will always reflect the **current state of the journey**.
+
+---
+
+## Architectural Vision (Current Direction)
+
+**Legacy:**
+SAP → SAP BW → Excel → Access → Excel → Power BI
+
+**Target (BDM 2.0):**
+SAP → Microsoft Fabric → Centralized Databases → Power BI / Excel
+
+This vision is continuously refined based on:
+- Real production experience
+- Business feedback
+- Platform capabilities
+- Long-term scalability requirements
+
+---
+
+## How to Use This Repository
+
+- **Recruiters / Hiring Managers:**  
+  Use this as a high-level overview and follow the linked repositories for depth.
+
+- **Stakeholders / Colleagues:**  
+  Understand ownership boundaries, platform direction, and ongoing initiatives.
+
+- **My Future Self:**  
+  Maintain clarity, continuity, and institutional memory.
+
+---
+
+## Living Document Disclaimer
+
+This repository is intentionally **not static**.
+
+It will be updated as:
+- New systems are introduced
+- Architecture evolves
+- Business needs change
+- New projects are delivered
+
+The goal is transparency, traceability, and long-term sustainability.
+
+---
+
+## Confidentiality Notice
+
+All descriptions are high-level and abstracted.
+
+No proprietary ECO3 data, schemas, or sensitive business logic are exposed.
