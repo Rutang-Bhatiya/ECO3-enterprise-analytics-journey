@@ -1,5 +1,3 @@
-# Enterprise Analytics Journey – ECO3
-
 ## Purpose of This Repository
 
 This repository serves as a **living overview** of my analytics, BI, and data platform journey at ECO3.
@@ -44,7 +42,7 @@ Each phase builds on the previous one and is documented through dedicated reposi
 ## Active & Planned Repositories
 
 ### 1️⃣ Legacy Discovery & Reporting Foundation
-**Repository:** `eco3-reporting-legacy-discovery`
+**Repository:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/)
 
 Focus:
 - Mapping undocumented environments
@@ -57,20 +55,20 @@ Status: ✅ Completed (baseline established)
 ---
 
 ### 2️⃣ Operational BI Ownership & Business Analytics
-**Repository:** `eco3-operational-bi-ownership`
+**Repository:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/)
 
 Focus:
 - Ownership of Power BI reports
 - Data trust restoration
 - Stakeholder enablement
-- Pricing, software & service analytics
+- [`Pricing-Software-Service--Sales-analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/)
 
 Status: 🔄 Active & maintained
 
 ---
 
 ### 3️⃣ Data Engineering, Automation & BDM 2.0 Architecture
-**Repository:** `eco3-data-engineering-bdm-2-future-architecture`
+**Repository:** [`ECO3-data-engineering-BDM-2-future-architecture`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/)
 
 Focus:
 - Python-based automation
