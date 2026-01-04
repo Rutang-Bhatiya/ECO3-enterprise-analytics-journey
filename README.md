@@ -42,7 +42,7 @@ Each phase builds on the previous one and is documented through dedicated reposi
 ## Active & Planned Repositories
 
 ### 1️⃣ Legacy Discovery & Reporting Foundation
-**Repository:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/)
+**Repository:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/){:target="_blank"}
 
 Focus:
 - Mapping undocumented environments
