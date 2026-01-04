@@ -154,3 +154,16 @@ The goal is transparency, traceability, and long-term sustainability.
 All descriptions are high-level and abstracted.
 
 No proprietary ECO3 data, schemas, or sensitive business logic are exposed.
+
+---
+
+## Navigation / Links (Placeholders)
+
+- **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/){:target="_blank"}
+  *It contain links to My portfolio and all major pages and projects*
+
+- **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/){:target="_blank"}
+  *Links to all Nielsen Repo*
+
+- **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/)
+  *Links to all ECO3 Repo*
