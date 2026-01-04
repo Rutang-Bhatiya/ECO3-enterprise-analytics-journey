@@ -55,20 +55,20 @@ Status: ✅ Completed (baseline established)
 ---
 
 ### 2️⃣ Operational BI Ownership & Business Analytics
-**Repository:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/)
+**Repository:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/){:target="_blank"}
 
 Focus:
 - Ownership of Power BI reports
 - Data trust restoration
 - Stakeholder enablement
-- [`Pricing-Software-Service--Sales-analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/)
+- [`Pricing-Software-Service--Sales-analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/){:target="_blank"}
 
 Status: 🔄 Active & maintained
 
 ---
 
 ### 3️⃣ Data Engineering, Automation & BDM 2.0 Architecture
-**Repository:** [`ECO3-data-engineering-BDM-2-future-architecture`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/)
+**Repository:** [`ECO3-data-engineering-BDM-2-future-architecture`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/){:target="_blank"}
 
 Focus:
 - Python-based automation
