@@ -41,7 +41,7 @@ Each phase builds on the previous one and is documented through dedicated reposi
 
 ## Active & Planned Repositories
 
-### 1️⃣ Legacy Discovery & Reporting Foundation
+### Legacy Discovery & Reporting Foundation
 **Repository:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/){:target="_blank"}
 
 Focus:
@@ -54,20 +54,33 @@ Status: ✅ Completed (baseline established)
 
 ---
 
-### 2️⃣ Operational BI Ownership & Business Analytics
+### Operational BI Ownership & Business Analytics
 **Repository:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/){:target="_blank"}
 
 Focus:
 - Ownership of Power BI reports
 - Data trust restoration
 - Stakeholder enablement
-- [`Pricing-Software-Service--Sales-analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/){:target="_blank"}
 
 Status: 🔄 Active & maintained
 
 ---
+### Pricing, Software & Service Analytics
+**Repository:** - [`Pricing-Software-Service--Sales-analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/){:target="_blank"}
 
-### 3️⃣ Data Engineering, Automation & BDM 2.0 Architecture
+**Focus:**
+- Unified Sales Analytics application
+- Pricing, Software Revenue, and Service KPIs
+- One source of truth for commercial decision-making
+- Accessible by all business levels
+- Built-in security and governance
+- Scalable and maintainable for future growth
+
+**Status:** 🔄 Active & maintained
+
+---
+
+### Data Engineering, Automation & BDM 2.0 Architecture
 **Repository:** [`ECO3-data-engineering-BDM-2-future-architecture`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/){:target="_blank"}
 
 Focus:
@@ -81,7 +94,7 @@ Status: 🔄 Active & evolving
 
 ---
 
-### 4️⃣ Future Repositories (Planned)
+### Future Repositories (Planned)
 
 As the ecosystem evolves, new repositories may be added, including:
 - Advanced analytics applications
